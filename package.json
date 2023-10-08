@@ -1,12 +1,12 @@
 {
     "name": "hux-blog",
-    "title": "Hux Blog",
+    "title": "c_kai Blog",
     "author": "Hux <huxpro@gmail.com>",
     "version": "1.8.2",
     "homepage": "http://huxpro.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/ckhesy/c_kaiPaper.github.io"
     },
     "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
